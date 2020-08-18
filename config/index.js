@@ -6,7 +6,7 @@ const logrotate = require('logrotate-stream');
 
 // Configuration
 const config = {
-    host: 'http://torrentkrlo.herokuapp.com',
+    host: 'http://torrentkarlo.herokuapp.com',
     port: 8080,
 
     publicPath: path.resolve('./public'),
